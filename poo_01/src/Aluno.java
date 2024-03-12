@@ -10,7 +10,7 @@ public class Aluno  {
     private String email;
     private String genero;
     private Boolean atestado;
-    private Double alura;
+    private Double altura;
 }
 
 
